@@ -21,7 +21,7 @@ I'm a passionate electrical engineer and computer science student with a love fo
 <br/>  
 
 
-## Rapidfire  
+## A little about me  
 
 - 🌱 I’m currently learning **LoRaWAN and Cortex M4 development**  
   
