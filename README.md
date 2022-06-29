@@ -23,7 +23,7 @@ I'm a passionate electrical engineer and computer science student with a love fo
 
 ## A little about me  
 
-- 🌱 I’m currently learning **LoRaWAN and Cortex M4 development**  
+- 🌱 I’m currently learning **LoRaWAN and FPGA development**  
   
 
 - ❓ Ask me about **C, Java, Laravel, Vue, Embedded Systems**  
