@@ -15,8 +15,9 @@
 
 
 ### Glad to see you here!  
-I'm a passionate electrical engineer and computer science student with a love for embedded systems and web development. While a student, I work as a software developer who specialises in the Vue Inertia Laravel Tailwindcss stack.  
-  
+I'm a passionate electrical engineer and computer science student with a love for embedded systems, networking and web development. While a student, I work as a software developer who specialises in the Vue Inertia Laravel Tailwindcss stack.  
+
+My recent focuses have been on hardware development in computer network, more specifically, I am in the process of creating a Wirespeed FPGA packet filter with custom Ethernet MAC with a web interface running on a RISC-V core (NEORV32).
 
 <br/>  
 
@@ -26,7 +27,7 @@ I'm a passionate electrical engineer and computer science student with a love fo
 - 🌱 I’m currently learning **LoRaWAN and FPGA development**  
   
 
-- ❓ Ask me about **C, Java, Laravel, Vue, Embedded Systems**  
+- ❓ Ask me about **C, Java, Laravel, Vue, Embedded Systems, FPGAs, VHDL**  
   
 
 - 🔭 View some of my projects at **[matthewgilpin.com](https://matthewgilpin.com)**  
