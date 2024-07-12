@@ -15,16 +15,16 @@
 
 
 ### Glad to see you here!  
-I'm a passionate electrical engineer and computer science student with a love for embedded systems, networking and web development. While a student, I work as a software developer who specialises in the Vue Inertia Laravel Tailwindcss stack.  
+A passionate electrical engineer and computer scientist with a love for embedded systems, networking and web development. Recently I focus in technical operations systems engineering and look after low-latency wireless networks. Prevously, I worked as a software developer who specialised in the Vue Inertia Laravel Tailwindcss stack. 
 
-My recent focuses have been on hardware development in computer network, more specifically, I am in the process of creating a Wirespeed FPGA packet filter with custom Ethernet MAC with a web interface running on a RISC-V core (NEORV32).
+My recent focuses have been on hardware development in computer network, more specifically, my thesis consisted of creating a Wirespeed FPGA packet filter with custom Ethernet MAC with a web interface running on a RISC-V core (NEORV32).
 
 <br/>  
 
 
 ## A little about me  
 
-- 🌱 I’m currently learning **LoRaWAN and FPGA development**  
+- 🌱 I’m currently learning **Low latency networking, FPGA development**  
   
 
 - ❓ Ask me about **C, Java, Laravel, Vue, Embedded Systems, FPGAs, VHDL**  
